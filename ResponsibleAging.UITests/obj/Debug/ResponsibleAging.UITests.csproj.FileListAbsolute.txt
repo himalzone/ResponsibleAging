@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging.UITests\bin\Debug\ResponsibleAging.UITests.dll
+C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging.UITests\bin\Debug\ResponsibleAging.UITests.pdb
+C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging.UITests\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging.UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging.UITests\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging.UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging.UITests\obj\Debug\ResponsibleAging.UITests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging.UITests\obj\Debug\ResponsibleAging.UITests.dll
+C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging.UITests\obj\Debug\ResponsibleAging.UITests.pdb

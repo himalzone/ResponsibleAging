@@ -1,0 +1,8 @@
+ResponsibleAging.MainActivity, ResponsibleAging;md50f8313a00072409d1add7b6bd5d5ead5.MainActivity
+ResponsibleAging.MainActivity, ResponsibleAging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50f8313a00072409d1add7b6bd5d5ead5.MainActivity
+ResponsibleAging.MainActivity;md50f8313a00072409d1add7b6bd5d5ead5.MainActivity
+responsibleaging.MainActivity;md50f8313a00072409d1add7b6bd5d5ead5.MainActivity
+ResponsibleAging.Medication, ResponsibleAging;md50f8313a00072409d1add7b6bd5d5ead5.Medication
+ResponsibleAging.Medication, ResponsibleAging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50f8313a00072409d1add7b6bd5d5ead5.Medication
+ResponsibleAging.Medication;md50f8313a00072409d1add7b6bd5d5ead5.Medication
+responsibleaging.Medication;md50f8313a00072409d1add7b6bd5d5ead5.Medication
