@@ -23,23 +23,35 @@ public final class R {
         public static final int round=0x7f020009;
     }
     public static final class id {
-        public static final int button1=0x7f050009;
-        public static final int button2=0x7f05000a;
-        public static final int button3=0x7f05000b;
-        public static final int button4=0x7f05000c;
-        public static final int imageButton1=0x7f050000;
-        public static final int imageButton2=0x7f050001;
-        public static final int imageButton3=0x7f050002;
-        public static final int imageButton4=0x7f050003;
-        public static final int imageButton5=0x7f050004;
-        public static final int imageButton6=0x7f050005;
-        public static final int imageButton7=0x7f050006;
-        public static final int imageButton8=0x7f050007;
-        public static final int textView1=0x7f050008;
+        public static final int AfterNoon=0x7f05000c;
+        public static final int MainMenu=0x7f050012;
+        public static final int Morning=0x7f05000b;
+        public static final int Night=0x7f05000d;
+        public static final int button4=0x7f050003;
+        public static final int button5=0x7f050002;
+        public static final int imageButton1=0x7f050006;
+        public static final int imageButton2=0x7f050004;
+        public static final int imageButton3=0x7f050000;
+        public static final int imageButton4=0x7f050005;
+        public static final int imageButton5=0x7f050007;
+        public static final int imageButton6=0x7f050008;
+        public static final int imageButton7=0x7f050009;
+        public static final int imageButton8=0x7f05000a;
+        public static final int tableLayout1=0x7f05000e;
+        public static final int tableRow1=0x7f05000f;
+        public static final int tableRow2=0x7f050010;
+        public static final int tableRow3=0x7f050011;
+        public static final int textView1=0x7f050001;
     }
     public static final class layout {
-        public static final int main=0x7f030000;
-        public static final int second=0x7f030001;
+        public static final int connecttowatch=0x7f030000;
+        public static final int exercise=0x7f030001;
+        public static final int heartrate=0x7f030002;
+        public static final int main=0x7f030003;
+        public static final int medication=0x7f030004;
+        public static final int medicationafternoon=0x7f030005;
+        public static final int medicationmorning=0x7f030006;
+        public static final int medicationnight=0x7f030007;
     }
     public static final class string {
         public static final int app_name=0x7f040001;

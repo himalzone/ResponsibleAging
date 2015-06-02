@@ -48,6 +48,12 @@
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Medication.cs" />
+    <Compile Include="MedicineMorning.cs" />
+    <Compile Include="AfterNoonMedicine.cs" />
+    <Compile Include="NightMedicine.cs" />
+    <Compile Include="Exercise.cs" />
+    <Compile Include="ConnectToWatch.cs" />
+    <Compile Include="HeartRate.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -70,8 +76,14 @@
     <AndroidResource Include="Resources\drawable\f.png" />
     <AndroidResource Include="Resources\drawable\g.png" />
     <AndroidResource Include="Resources\drawable\h.png" />
-    <AndroidResource Include="Resources\layout\Second.axml" />
     <AndroidResource Include="Resources\drawable\round.png" />
+    <AndroidResource Include="Resources\layout\Medication.axml" />
+    <AndroidResource Include="Resources\layout\MedicationAfternoon.axml" />
+    <AndroidResource Include="Resources\layout\MedicationMorning.axml" />
+    <AndroidResource Include="Resources\layout\MedicationNight.axml" />
+    <AndroidResource Include="Resources\layout\Exercise.axml" />
+    <AndroidResource Include="Resources\layout\ConnectToWatch.axml" />
+    <AndroidResource Include="Resources\layout\Heartrate.axml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>

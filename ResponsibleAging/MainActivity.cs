@@ -38,6 +38,24 @@ namespace ResponsibleAging
 				StartActivity(intent);
 			};
 
+			button2.Click += (sender, e) =>
+			{
+				var Exercise = new Intent(this, typeof(Exercise));
+				StartActivity(Exercise);
+			};
+
+			button3.Click += (sender, e) =>
+			{
+				var ConnectToWatch = new Intent(this, typeof(ConnectToWatch));
+				StartActivity(ConnectToWatch);
+			};
+
+			button4.Click += (sender, e) =>
+			{
+				var HeartRate = new Intent(this, typeof(HeartRate));
+				StartActivity(HeartRate);
+			};
+
 			}
 		}
 	}

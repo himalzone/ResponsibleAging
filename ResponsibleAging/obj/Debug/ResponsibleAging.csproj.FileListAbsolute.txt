@@ -21,7 +21,13 @@ C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\
 C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable\f.png
 C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable\g.png
 C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable\h.png
-C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\second.xml
 C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable\round.png
 C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\R.cs.flag
 C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\uploadflags.txt
+C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\medication.xml
+C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\medicationmorning.xml
+C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\medicationafternoon.xml
+C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\medicationnight.xml
+C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\exercise.xml
+C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\connecttowatch.xml
+C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\heartrate.xml

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffdfe8e8">
+    <ImageButton
+        android:src="@drawable/a"
+        android:layout_width="347.1dp"
+        android:layout_height="50.0dp"
+        android:id="@+id/imageButton3"
+        android:scaleType="center"
+        android:layout_marginLeft="21.2dp"
+        android:layout_marginTop="16.7dp" />
+    <TextView
+        android:text="User, Select Start"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="63.9dp"
+        android:id="@+id/textView1"
+        android:textColor="#ff000000"
+        android:layout_marginLeft="23.9dp"
+        android:layout_marginTop="20.5dp" />
+    <Button
+        android:text="Start"
+        android:layout_width="261.3dp"
+        android:layout_height="71.0dp"
+        android:id="@+id/button5"
+        android:layout_marginLeft="79.6dp"
+        android:layout_marginTop="33.7dp" />
+    <Button
+        android:text="Main Menu"
+        android:layout_width="match_parent"
+        android:layout_height="78.7dp"
+        android:id="@+id/button4"
+        android:layout_marginTop="167.4dp"
+        android:layout_marginLeft="194.7dp" />
+</LinearLayout>
