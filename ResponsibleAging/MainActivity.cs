@@ -21,6 +21,17 @@ namespace ResponsibleAging
 			// Set our view from the "main" layout resource
 			SetContentView (Resource.Layout.Main);
 
+			//creating the DataBase
+			DBRepository dbr = new DBRepository ();
+			var result = dbr.CreateDB ();
+			Toast.MakeText (this, result, ToastLength.Short).Show ();
+
+			// creating table
+				//DBRepository dbr = new DBRepository ();
+				result = dbr.CreateTable ();
+				Toast.MakeText (this, result, ToastLength.Short).Show ();
+
+
 			// Get our button from the layout resource,
 			//and attach an event to it
 			var button = FindViewById<ImageButton> (Resource.Id.imageButton1);
@@ -56,6 +67,30 @@ namespace ResponsibleAging
 				StartActivity(HeartRate);
 			};
 
+			button5.Click += (sender, e) =>
+			{
+				var Distance = new Intent(this, typeof(Distance));
+				StartActivity(Distance);
+			};
+
+			button6.Click += (sender, e) =>
+			{
+				var Distance = new Intent(this, typeof(SendToDoctor));
+				StartActivity(Distance);
+			};
+
+			button7.Click += (sender, e) =>
+			{
+				var DoctorsSugestion = new Intent(this, typeof(DoctorsSugestion));
+				StartActivity(DoctorsSugestion);
+			};
+
+			button8.Click += (sender, e) =>
+			{
+				//loading the login AXML
+				var Register = new Intent(this, typeof(SignIn));
+				StartActivity(Register);
+			};
 			}
 		}
 	}

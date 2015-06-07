@@ -21,6 +21,12 @@ namespace ResponsibleAging
 			base.OnCreate (bundle);
 
 			SetContentView (Resource.Layout.Exercise);
+			var txtView = FindViewById<TextView>(Resource.Id.textViewID5);
+			DBRepository dbr = new DBRepository ();
+			string task = dbr.GetTaskById (2);
+			//Toast.MakeText (this, task, ToastLength.Short).Show ();
+
+			txtView.Text = task+", this is your Exercise Plan";
 
 			var mainMenu = FindViewById<Button> (Resource.Id.button4);
 

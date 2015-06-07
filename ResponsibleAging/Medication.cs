@@ -21,34 +21,22 @@ namespace ResponsibleAging
 			base.OnCreate (bundle);
 			// Set our view from the "main" layout resource
 			SetContentView (Resource.Layout.Medication);
+			var txtView = FindViewById<TextView>(Resource.Id.textViewID);
+			var Medication = FindViewById<TextView>(Resource.Id.DisplayMedication);
+			DBRepository dbr = new DBRepository ();
+			string task = dbr.GetTaskById (2);
+			txtView.Text = task+", these are your Medicines";
+			//displaying medication
+			string medication = dbr.GetAllRecords();
+			Medication.Text = medication;
 
 			var mainMenu = FindViewById<Button> (Resource.Id.button4);
-			var morning = FindViewById<Button> (Resource.Id.Morning);
-			var Afternoon = FindViewById<Button> (Resource.Id.AfterNoon);
-			var Night = FindViewById<Button> (Resource.Id.Night);
 			mainMenu.Click += (sender, e) =>
 			{
 				var intent = new Intent(this, typeof(MainActivity));
 				StartActivity(intent);
 			};
-
-			morning.Click += (sender, e) =>
-			{
-				var MorningMedicine = new Intent(this, typeof(MedicineMorning));
-				StartActivity(MorningMedicine);
-			};
-
-			Afternoon.Click += (sender, e) =>
-			{
-				var AfterNoonMedicine = new Intent(this, typeof(AfterNoonMedicine));
-				StartActivity(AfterNoonMedicine);
-			};
-
-			Night.Click += (sender, e) =>
-			{
-				var NightMedicine = new Intent(this, typeof(NightMedicine));
-				StartActivity(NightMedicine);
-			};
+				
 		}
 	}
 }

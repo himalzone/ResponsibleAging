@@ -22,6 +22,12 @@ namespace ResponsibleAging
 
 			// Create your application here
 			SetContentView (Resource.Layout.ConnectToWatch);
+			var txtView = FindViewById<TextView>(Resource.Id.textViewID2);
+			DBRepository dbr = new DBRepository ();
+			string task = dbr.GetTaskById (2);
+			//Toast.MakeText (this, task, ToastLength.Short).Show ();
+
+			txtView.Text = task+", Select \"start\"";
 
 			var mainMenu = FindViewById<Button> (Resource.Id.button4);
 

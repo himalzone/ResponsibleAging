@@ -13,29 +13,19 @@
         android:layout_marginLeft="43.4dp"
         android:layout_marginTop="16.7dp" />
     <TextView
-        android:text="User, select from the below to see your medicine"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:layout_width="match_parent"
-        android:layout_height="63.9dp"
-        android:id="@+id/textView1"
-        android:textColor="#ff000000"
-        android:layout_marginLeft="23.9dp"
-        android:layout_marginTop="20.5dp" />
-    <Button
-        android:text="Morning"
+        android:text="Large Text"
+        android:textAppearance="?android:attr/textAppearanceLarge"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/Morning" />
-    <Button
-        android:text="Afternoon"
+        android:id="@+id/textViewID"
+        android:textColor="#ff000000" />
+    <TextView
+        android:text="Large Text"
+        android:textAppearance="?android:attr/textAppearanceLarge"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/AfterNoon" />
-    <Button
-        android:text="Night"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/Night" />
+        android:id="@+id/DisplayMedication"
+        android:textColor="#ff000000" />
     <Button
         android:text="Main Menu"
         android:layout_width="match_parent"

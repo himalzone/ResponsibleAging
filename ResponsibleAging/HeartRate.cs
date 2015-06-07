@@ -22,6 +22,12 @@ namespace ResponsibleAging
 
 			// Create your application here
 			SetContentView (Resource.Layout.Heartrate);
+			var txtView = FindViewById<TextView>(Resource.Id.textViewID6);
+			DBRepository dbr = new DBRepository ();
+			string task = dbr.GetTaskById (2);
+			//Toast.MakeText (this, task, ToastLength.Short).Show ();
+
+			txtView.Text = task+", this is your Heart Rate";
 			var mainMenu = FindViewById<Button> (Resource.Id.button4);
 
 			mainMenu.Click += (sender, e) =>

@@ -25,9 +25,82 @@ C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\
 C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\R.cs.flag
 C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\uploadflags.txt
 C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\medication.xml
-C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\medicationmorning.xml
-C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\medicationafternoon.xml
-C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\medicationnight.xml
 C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\exercise.xml
 C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\connecttowatch.xml
 C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\heartrate.xml
+C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\distance.xml
+C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\sendtodoctor.xml
+C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\doctorssugestion.xml
+C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\login.xml
+C:\Users\Administrator\Documents\Projects\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\register.xml
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\ResponsibleAging.dll
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\bin\Debug\ResponsibleAging.dll
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\bin\Debug\ResponsibleAging.pdb
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\bin\Debug\ResponsibleAging.dll.mdb
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\bin\Debug\com.companyname.responsibleaging.apk
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\bin\Debug\com.companyname.responsibleaging-Signed.apk
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\ResponsibleAging.pdb
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\android\bin\com.companyname.responsibleaging.apk
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\main.xml
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\values\strings.xml
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable-hdpi\icon.png
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable-mdpi\icon.png
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable-xhdpi\icon.png
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable-xxxhdpi\icon.png
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable\a.png
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable\b.png
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable\c.png
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable\d.png
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable\e.png
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable\f.png
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable\g.png
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable\h.png
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable\round.png
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\medication.xml
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\exercise.xml
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\connecttowatch.xml
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\heartrate.xml
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\distance.xml
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\sendtodoctor.xml
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\doctorssugestion.xml
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\login.xml
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\register.xml
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\R.cs.flag
+D:\Responsiable Aging DB\ResponsibleAging\ResponsibleAging\obj\Debug\uploadflags.txt
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\bin\Debug\ResponsibleAging.dll
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\bin\Debug\ResponsibleAging.pdb
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\bin\Debug\ResponsibleAging.dll.mdb
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\bin\Debug\com.companyname.responsibleaging.apk
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\bin\Debug\com.companyname.responsibleaging-Signed.apk
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\ResponsibleAging.dll
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\ResponsibleAging.pdb
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\android\bin\com.companyname.responsibleaging.apk
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\main.xml
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\values\strings.xml
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable-hdpi\icon.png
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable-mdpi\icon.png
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable-xhdpi\icon.png
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable-xxxhdpi\icon.png
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable\a.png
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable\b.png
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable\c.png
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable\d.png
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable\e.png
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable\f.png
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable\g.png
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable\h.png
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\drawable\round.png
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\medication.xml
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\exercise.xml
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\connecttowatch.xml
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\heartrate.xml
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\distance.xml
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\sendtodoctor.xml
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\doctorssugestion.xml
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\login.xml
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\register.xml
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\R.cs.flag
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\uploadflags.txt
+D:\Responsiable Aging DB - Copy\ResponsibleAging\ResponsibleAging\obj\Debug\res\layout\insertrecord.xml

@@ -87,17 +87,20 @@ namespace ResponsibleAging
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f05000c
-			public const int AfterNoon = 2131034124;
+			// aapt resource value: 0x7f050017
+			public const int DisplayMedication = 2131034135;
 			
-			// aapt resource value: 0x7f050012
-			public const int MainMenu = 2131034130;
+			// aapt resource value: 0x7f050013
+			public const int InsertRecord = 2131034131;
 			
-			// aapt resource value: 0x7f05000b
-			public const int Morning = 2131034123;
+			// aapt resource value: 0x7f05001a
+			public const int Register = 2131034138;
 			
 			// aapt resource value: 0x7f05000d
-			public const int Night = 2131034125;
+			public const int btnAddRecord = 2131034125;
+			
+			// aapt resource value: 0x7f050012
+			public const int btnTask = 2131034130;
 			
 			// aapt resource value: 0x7f050003
 			public const int button4 = 2131034115;
@@ -105,44 +108,68 @@ namespace ResponsibleAging
 			// aapt resource value: 0x7f050002
 			public const int button5 = 2131034114;
 			
-			// aapt resource value: 0x7f050006
-			public const int imageButton1 = 2131034118;
+			// aapt resource value: 0x7f050014
+			public const int imageButton1 = 2131034132;
 			
-			// aapt resource value: 0x7f050004
-			public const int imageButton2 = 2131034116;
+			// aapt resource value: 0x7f050008
+			public const int imageButton2 = 2131034120;
 			
 			// aapt resource value: 0x7f050000
 			public const int imageButton3 = 2131034112;
 			
-			// aapt resource value: 0x7f050005
-			public const int imageButton4 = 2131034117;
-			
-			// aapt resource value: 0x7f050007
-			public const int imageButton5 = 2131034119;
-			
-			// aapt resource value: 0x7f050008
-			public const int imageButton6 = 2131034120;
-			
-			// aapt resource value: 0x7f050009
-			public const int imageButton7 = 2131034121;
-			
 			// aapt resource value: 0x7f05000a
-			public const int imageButton8 = 2131034122;
+			public const int imageButton4 = 2131034122;
+			
+			// aapt resource value: 0x7f050004
+			public const int imageButton5 = 2131034116;
+			
+			// aapt resource value: 0x7f050015
+			public const int imageButton6 = 2131034133;
+			
+			// aapt resource value: 0x7f050006
+			public const int imageButton7 = 2131034118;
 			
 			// aapt resource value: 0x7f05000e
-			public const int tableLayout1 = 2131034126;
+			public const int imageButton8 = 2131034126;
 			
-			// aapt resource value: 0x7f05000f
-			public const int tableRow1 = 2131034127;
+			// aapt resource value: 0x7f050018
+			public const int textView1 = 2131034136;
 			
 			// aapt resource value: 0x7f050010
-			public const int tableRow2 = 2131034128;
+			public const int textView2 = 2131034128;
 			
-			// aapt resource value: 0x7f050011
-			public const int tableRow3 = 2131034129;
+			// aapt resource value: 0x7f050019
+			public const int textView3 = 2131034137;
+			
+			// aapt resource value: 0x7f050016
+			public const int textViewID = 2131034134;
 			
 			// aapt resource value: 0x7f050001
-			public const int textView1 = 2131034113;
+			public const int textViewID2 = 2131034113;
+			
+			// aapt resource value: 0x7f050005
+			public const int textViewID3 = 2131034117;
+			
+			// aapt resource value: 0x7f050007
+			public const int textViewID4 = 2131034119;
+			
+			// aapt resource value: 0x7f050009
+			public const int textViewID5 = 2131034121;
+			
+			// aapt resource value: 0x7f05000b
+			public const int textViewID6 = 2131034123;
+			
+			// aapt resource value: 0x7f05000f
+			public const int textViewID8 = 2131034127;
+			
+			// aapt resource value: 0x7f05001b
+			public const int textViewID9 = 2131034139;
+			
+			// aapt resource value: 0x7f05000c
+			public const int txtInsert = 2131034124;
+			
+			// aapt resource value: 0x7f050011
+			public const int txtTask = 2131034129;
 			
 			static Id()
 			{
@@ -161,25 +188,34 @@ namespace ResponsibleAging
 			public const int ConnectToWatch = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int Exercise = 2130903041;
+			public const int Distance = 2130903041;
 			
 			// aapt resource value: 0x7f030002
-			public const int Heartrate = 2130903042;
+			public const int DoctorsSugestion = 2130903042;
 			
 			// aapt resource value: 0x7f030003
-			public const int Main = 2130903043;
+			public const int Exercise = 2130903043;
 			
 			// aapt resource value: 0x7f030004
-			public const int Medication = 2130903044;
+			public const int Heartrate = 2130903044;
 			
 			// aapt resource value: 0x7f030005
-			public const int MedicationAfternoon = 2130903045;
+			public const int InsertRecord = 2130903045;
 			
 			// aapt resource value: 0x7f030006
-			public const int MedicationMorning = 2130903046;
+			public const int Login = 2130903046;
 			
 			// aapt resource value: 0x7f030007
-			public const int MedicationNight = 2130903047;
+			public const int Main = 2130903047;
+			
+			// aapt resource value: 0x7f030008
+			public const int Medication = 2130903048;
+			
+			// aapt resource value: 0x7f030009
+			public const int Register = 2130903049;
+			
+			// aapt resource value: 0x7f03000a
+			public const int SendToDoctor = 2130903050;
 			
 			static Layout()
 			{

@@ -1,9 +1,11 @@
 ﻿<Properties StartupItem="ResponsibleAging\ResponsibleAging.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (Lollipop)" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="ResponsibleAging\MainActivity.cs" Line="13" Column="27" />
-      <File FileName="ResponsibleAging\Medication.cs" Line="16" Column="38" />
+      <File FileName="ResponsibleAging\ORM\ToDoTasks.cs" Line="10" Column="3" />
+      <File FileName="ResponsibleAging\ORM\DBRepository.cs" Line="66" Column="43" NotebookId="1" />
+      <File FileName="ResponsibleAging\MainActivity.cs" Line="33" Column="1" NotebookId="1" />
+      <File FileName="ResponsibleAging\Medication.cs" Line="31" Column="33" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
